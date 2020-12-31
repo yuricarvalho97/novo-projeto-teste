@@ -1,2 +1,0 @@
-12/29/20 12:25:22 SELECT cli_fan, cli_razao FROM cad_cli0;
-12/29/20 12:25:22 SELECT cli_fan, cli_razao FROM cad_cli0;1146:Table 'sys_clientes.cad_cli0' doesn't exist

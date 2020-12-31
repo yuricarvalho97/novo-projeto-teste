@@ -1,0 +1,5 @@
+-LC:\bcc55\lib\obj;C:\bcc55\lib;C:\xHarbour\lib -Gn -M -m -s -Tpe -x -aa +
+c0w32.obj obj\teste_sql.OBJ  obj\arqs.obj  obj\func.obj  obj\fu_new.obj  obj\fu_ser.obj obj\fu_rog.obj obj\sysarq.obj obj\fu_serut.obj obj\erros.obj obj\fu_new2.obj obj\fu_rel.obj obj\fu_sern.obj obj\fu_sys.obj obj\fu_sern3.obj obj\fu_ser2.obj, +
+teste_sql.EXE,, +
+lang.lib vm.lib rtl.lib rdd.lib macro.lib pp.lib dbfntx.lib dbfcdx.lib dbffpt.lib common.lib gtwvt.lib wvtgui.lib codepage.lib ct.lib tip.lib pcrepos.lib hsx.lib hbsix.lib debug.lib sqllib_xhb_09960.lib libmysql.lib import32.lib cw32.lib, +
+, +
